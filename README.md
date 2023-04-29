@@ -2,7 +2,8 @@
 
 ## Bem vindo, eu sou o Henrique Chaves !
 
-> Resolve problemas do mundo real é o que me motiva a continuar nessa área
+
+Pode me chamar de rick, atuo na área a 3 anos, adoro tudo sobre tech, resolver problemas do mundo real é o que me motiva a continuar nessa área.
 
 ## Conhecimentos
 
