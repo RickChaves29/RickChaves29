@@ -30,8 +30,7 @@ Pode me chamar de rick, atuo na área a 3 anos, adoro tudo sobre tech, resolver 
 - Programção funcional (4 meses) 
 
 <div align="center">
-  <a href="mailto:henriquechaves.jobs@gmail.com 
-">
+  <a href="mailto:henriquechaves.jobs@gmail.com">
     <img src="https://custom-icon-badges.demolab.com/badge/e%E2%80%93mail-0078D4.svg?logo=maildotru&logoColor=white&style=for-the-badge"
       alt="My e-mail"/></a>
   <a href="https://www.linkedin.com/in/developer-henrique-chaves/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
