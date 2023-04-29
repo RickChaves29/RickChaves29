@@ -29,7 +29,7 @@ Pode me chamar de rick, atuo na área a 3 anos, adoro tudo sobre tech, resolver 
 - Programção orientada a objeto (2 anos)
 - Programção funcional (4 meses) 
 
-<div> 
+<div align="center">
   <a href="mailto:henriquechaves.jobs@gmail.com 
 ">
     <img src="https://custom-icon-badges.demolab.com/badge/e%E2%80%93mail-0078D4.svg?logo=maildotru&logoColor=white&style=for-the-badge"
